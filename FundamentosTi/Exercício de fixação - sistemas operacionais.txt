@@ -8,7 +8,7 @@
 gerenciamento de memória;
 gerenciamento de recursos;
 entrada e saída de dados;
- sistema de arquivos.
+sistema de arquivos.
  
 5- é o programa que faz a interpretação dos comandos colocados no kernel
  
