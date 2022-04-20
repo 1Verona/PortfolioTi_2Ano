@@ -12,11 +12,11 @@ O princípio da disponibilidade
 
 5.
 Disponibilidade: Tomar as devidas providências de precaução para evitar que o site fique fora do ar (firewall, no break etc.)
--
+
 Integridade: Fazerem backups para evitar a perda de arquivos importantes 
--
+
 Confidencialidade: Usar de criptografias para evitar que mensagens por exemplo sejam interceptadas
--
+
 Autenticidade: Biometria usada em bancos para garantir a segurança das contas(reconhecimento facial, digital e íris)
 
 
