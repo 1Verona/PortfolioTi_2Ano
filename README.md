@@ -1,7 +1,11 @@
+
 # ⚙️PortfólioTi⚙️
 O Portfólio relacionado a Ti do aluno João Gabriel Verona
+<img align="right" width="500px" style="margin-top:-20px" src="https://i.imgur.com/8yDEYRy.gif">
 
 ## ⚜️Sobre Mim⚜️
+
+
 Meu nome é João Gabriel Verona, tenho 15 anos, Vivo em Santa Catarina, Brasil, e esctou cursando o ensino médio integrado com curso técnico em desenvolvimento de sistemas no Senai -São José, SC
 
 ## 📝Oque encontraremos aqui?📝
