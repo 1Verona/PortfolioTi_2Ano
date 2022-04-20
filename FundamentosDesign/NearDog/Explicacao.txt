@@ -1,0 +1,16 @@
+Nomes Kauã Pereira, Davi Medeiros, Leonardo e João Gabriel Verona
+
+Criamos um modelo de um aplicativo para celular onde você poderá encontrar os animais domésticos mais próximos da sua casa, que vivem em abrigos, focando na comunicação direta entre usuário e abrigo e na simplicidade de uso do App.
+
+
+
+O botão do meio iria para a página inicial, onde serão recomendados abrigos próximos baseado na localização do dispositivo 
+No ícone de pesquisa, seria possível filtrar os animais por raça, idade e etc.
+Na aba de mensagens, é onde se encontra a aproximação do doador 
+com quem está adotando.
+O usuário poderá favoritar os abrigos que mais confiar ou gostar
+Já no perfil, os abrigos saberiam para quem estão doando seus animais e vice-versa, fotos com os animais, idades e endereços e comentários (se houverem) outros abrigos que o usuário já entrou em contato 
+As notificações serviriam, como o próprio nome diz, para os usuários saberem de novidades sobre novos animais que entraram nos abrigos favoritados, novas mensagens e notícias do mundo pet local .
+Localizadas no topo da interface do aplicativo, as configurações são para a praticidade do usuário e para ajustar o App como desejar dentro do que se permite.
+
+Escolhemos tons suaves de azul e roxo, o azul é uma cor que remete a tranquilidade, paz e conforto, o que pode trazer ao usuário esses tipos de sensações ao usar o App. Já o roxo é uma cor de tom semelhante ao azul, o que mantém o padrão de cores semelhantes.
