@@ -1,0 +1,15 @@
+1- Sistema operacional é um programa ou um conjunto de programas que a função é gerenciar os recursos do sistema e dar ao usuário uma interface 
+
+2- Interpretar os comandos do usuário, controlar os periféricos de entrada e saída e organizar os arquivos no disco
+
+3- Periféricos são o que o usuário utiliza para dar os comandos e receber de volta, tendo periféricos de entrada e saída, componentes são as partes internas do computador como processador, memória ram, placa de video e etc.
+
+4- gerenciamento de processos;
+gerenciamento de memória;
+gerenciamento de recursos;
+entrada e saída de dados;
+ sistema de arquivos.
+ 
+5- é o programa que faz a interpretação dos comandos colocados no kernel
+ 
+6- é o programa central do computador; onde são executados os comandos 

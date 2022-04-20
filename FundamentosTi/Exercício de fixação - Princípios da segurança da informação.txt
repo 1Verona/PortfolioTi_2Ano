@@ -1,0 +1,22 @@
+Princípios da segurança da informação 
+
+-
+2.
+Princípio da autenticidade e princípio da confidencialidade 
+
+3.
+Jorge usou de um programa externo, para clonar a senha do email de Claudia que trabalha em uma empresa concorrente a que Jorge trabalha, e com o email dela manda uma mensagem ao chefe de Claudia pedindo o código de acesso ao backup do banco de dados da empresa alegando que quer adicionar seu novo projeto para não perdê-lo, o chefe de Claudia após alguns minutos responde com o código, que Jorge usa para acessar o backup e excluir todos os arquivos da empresa, fazendo com que percam todo progresso de seu último projeto.
+
+4.
+O princípio da disponibilidade 
+
+5.
+Disponibilidade: Tomar as devidas providências de precaução para evitar que o site fique fora do ar (firewall, no break etc.)
+-
+Integridade: Fazerem backups para evitar a perda de arquivos importantes 
+-
+Confidencialidade: Usar de criptografias para evitar que mensagens por exemplo sejam interceptadas
+-
+Autenticidade: Biometria usada em bancos para garantir a segurança das contas(reconhecimento facial, digital e íris)
+
+
