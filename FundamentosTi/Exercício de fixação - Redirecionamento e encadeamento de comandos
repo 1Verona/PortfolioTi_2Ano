@@ -1,0 +1,17 @@
+
+1- O sistema me mostrou o número de caracteres presentes na sentença entre aspas;
+deve se usar apenas o “> (arquivo de destino)”.
+
+joao_verona@SN-358737 MINW64 ~/desktop
+$ touch nomes
+
+joao_verona@SN-358737 MINW64 ~/desktop
+$ echo 'Maria
+Joana
+Ana
+José
+Ricardo
+João' > nomes
+
+joao_verona@SN-358737 MINW64 ~/desktop
+$ echo "um conta os caracteres do nome e o outro de todo o arquivo" > diferencawccat
