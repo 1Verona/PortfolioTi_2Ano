@@ -1,4 +1,4 @@
-public class pg {
+public class Main {
     public static void main(String[] args) {
         int inicial=1,
             quociente=2,
