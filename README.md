@@ -1,12 +1,12 @@
 
 # ⚙️PortfólioTi⚙️
-O Portfólio relacionado a Ti do aluno João Gabriel Verona
+#### O Portfólio relacionado a Ti do aluno João Gabriel Verona
 <img align="right" width="400px" style="margin-top:-20px" src="https://i.imgur.com/8yDEYRy.gif">
 
 ## ⚜️Sobre Mim⚜️
 
 
-Meu nome é João Gabriel Verona, tenho 15 anos, Vivo em Santa Catarina, Brasil, e esctou cursando o ensino médio integrado com curso técnico em desenvolvimento de sistemas no Senai -São José, SC
+#### Meu nome é João Gabriel Verona, tenho 15 anos, Vivo em Santa Catarina, Brasil, e esctou cursando o ensino médio integrado com curso técnico em desenvolvimento de sistemas no Senai -São José, SC
 
 ## 📝Oque encontraremos aqui?📝
-Todas atividades relacionadas a tecnologia feitas no 2° e 3° ano do ensino médio Senai
+#### Todos os projetos relacionados a tecnologia feitas no 2° e 3° ano do ensino médio Senai
