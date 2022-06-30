@@ -1,6 +1,6 @@
 
 # ⚙️PortfólioTi⚙️
-O Portfólio relacionado a Ti do aluno João Gabriel Verona
+
 <img align="right" width="100px" style="margin-top:-20px" src="https://i.imgur.com/8yDEYRy.gif">
 
 ## ⚜️Sobre Mim⚜️
