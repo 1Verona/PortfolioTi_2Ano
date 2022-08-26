@@ -1,4 +1,5 @@
  //Implementaçao do Botao Remove
+
  private void btnRmvActionPerformed(java.awt.event.ActionEvent evt) {                                       
         String elemento = campoItem.getText();//Obter Texto
         lista.remove(elemento);// adicionar na lista
