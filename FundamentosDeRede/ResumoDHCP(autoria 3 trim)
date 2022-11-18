@@ -1,0 +1,13 @@
+DHCP 
+(Dynamic Host Configuration Protocol)
+
+
+Dynamic Host Configuration Protocol é o nome de um protocolo TCP/IP que fornece serviços de configuração dinâmica em redes.
+Sem o conhecimento do usuário, quando conectado a uma rede, este serviço fornece automaticamente o endereço IP, máscara de sub-rede, gateway padrão, endereço IP de um ou mais servidores DNS/WINS e sufixos de pesquisa DNS para que o usuário do dispositivo do usuário possa usar a rede e os recursos de acesso nela disponíveis e o acesso à Internet, se houver.
+O DHCP surgiu como padrão em outubro de 1993, sucedendo o BOOTP, que, embora mais simples, tornou-se limitado pelos requisitos atuais de rede e conectividade.
+Resumidamente, o DHCP funciona da seguinte forma: um dispositivo que suporta o protocolo envia uma solicitação DHCP e os servidores DHCP que interceptam esse pacote respondem com um pacote contendo informações como endereço IP, máscara de rede e outros dados opcionais, como DNS, gateway padrão. ...
+O DHCP é um protocolo muito importante para o funcionamento da maioria das redes atualmente e é uma ferramenta essencial para os administradores de rede, pois permite configurar um grande número de dispositivos na rede sem nenhuma configuração manual.
+O protocolo possui uma configuração complexa e pode funcionar em três modos: automático, dinâmico e manual.
+
+- Finalmente, o modo manual permite atribuir um endereço IP vinculado ao MAC de cada placa de rede, obrigando cada computador a usar apenas o endereço IP configurado. Esse recurso é muito útil quando uma máquina possui um endereço IP fixo ou quando um administrador precisa ter mais controle sobre determinados endereços e máquinas da rede.
+No entanto, o trabalho do DHCP não é apenas entregar informações a novos hosts na rede. Com um recurso poderoso como o DHCP, dependendo de como o administrador o configura, é possível até mesmo restringir o acesso à rede e à Internet para determinadas máquinas.
