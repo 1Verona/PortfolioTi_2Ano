@@ -1,0 +1,17 @@
+Nem todo mundo entende o que significa IP, embora todos o usemos todos os dias para nos mantermos conectados à Internet.
+O sistema de identidade web pode atribuir uma identidade virtual a todos os dispositivos conectados. 
+O termo IP deriva de Internet Protocol e é utilizado para dois propósitos: descreve os protocolos de comunicação entre dispositivos, incluindo os modelos TCP/IP e OSI;
+e também é o identificador de um dispositivo conectado à internet. 
+Normalmente, para distinguir um termo do outro, este último também é conhecido como Endereço IP ou Endereço IP. E é sobre isso que vamos falar aqui
+Basicamente, o número do endereço IP é o CPF de computadores, celulares, tablets, decodificadores, TVs, dongles, consoles de videogame, etc.
+É um número atribuído ao dispositivo no momento em que ele é ligado, o que chamamos IP interno. Porém, assim que o gadget se conecta à internet, ele recebe um segundo número de registro, o chamado IP externo.
+
+Qual a diferença entre endereço interno e externo?
+
+Ambos servem para identificação, mas para fins diferentes.
+
+O IP interno, por exemplo, serve para identificar uma máquina, geralmente um computador ou uma impressora, em uma rede interna, como em ambientes corporativos, em que todos os terminais estão conectados entre si.
+Já o externo é sua identidade na internet; esse número permite que você se conecte à rede.
+Ele é único, porém dinâmico: não existem dois terminais na web com o mesmo número ao mesmo tempo, mas o número pode ser alterado a cada conexão. 
+O interno, por sua vez, pode ser fixo ou dinâmico.
+Saber o seu número de endereço é importante para solucionar problemas de conexão ou para permitir que outras pessoas em sua rede internet tenham acesso a arquivos que você queira compartilhar.
