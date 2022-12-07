@@ -1,0 +1,7 @@
+Um servidor é um computador equipado com um ou mais processadores, bancos de memória, portas de comunicação, software e, às vezes, algum sistema de armazenamento de dados, como discos rígidos internos ou memórias SSD.
+O termo servidor também descreve um recurso dentro de um sistema de computação maior capaz de processar aplicativos, fornecer serviços e armazenar dados.
+Esses sistemas podem ser físicos ou virtuais, instalados localmente ou remotamente. 
+Geralmente são escaláveis e possuem alto poder de processamento.
+Os servidores que podem executar um conjunto específico de programas ou protocolos para fornecer serviços a outras máquinas ou clientes são dispositivos dedicados à execução de aplicativos e serviços em uma rede LAN ou WAN.
+Dentro de uma infraestrutura de TI, um servidor e seus clientes formam uma arquitetura conhecida como “cliente/servidor” que fornece sistemas de roteamento e acesso centralizado a informações, recursos e dados armazenados em uma rede.
+Por uma definição primitiva, podemos pensar em servidor como qualquer solução tecnológica capaz de executar programas centralmente, além de armazenar e compartilhar arquivos, gerenciar filas de impressão e fornecer algum tipo de serviço a vários computadores por meio de uma rede local ou remota.
